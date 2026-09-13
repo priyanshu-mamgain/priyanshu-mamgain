@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=&amp;text=Priyanshu_Mamgain"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=&amp"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Aspiring+Software+Development+Engineer+(SDE);Building+Full+Stack+Projects+End-to-End;Learning+AI+%26+Automation+using+Python;BSc+Computer+Science+Undergraduate+%2C+3rd+Year;Passionate+About+Technology" alt="Typing SVG" />
 
@@ -231,6 +231,6 @@ workflows.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color&amp;height=120&amp;section=footer&amp;text=Thanks_for_Visiting"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color&amp;height=120&amp;section=footer"/>
 
 </div>
