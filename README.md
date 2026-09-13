@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Priyanshu%20Mamgain&fontSize=48&fontColor=00D4AA&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Python%20Developer%20%7C%20AI%2FML%20Learner&descAlignY=58"/>
+# Priyanshu Mamgain
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Aspiring+Software+Development+Engineer+(SDE);Building+Full+Stack+Projects+End-to-End;Learning+AI+%26+Automation+using+Python;BSc+Computer+Science+Undergraduate+%2C+3rd+Year;Passionate+About+Technology" alt="Typing SVG" />
 
