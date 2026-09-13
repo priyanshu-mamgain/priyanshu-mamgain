@@ -148,6 +148,13 @@ image gallery, and an early portfolio draft.
 </td>
 <td width="50%" valign="top">
 
+### 🔜 My Next Project
+Placeholder card — next build once it's ready.
+ 
+**Stack:** ?
+**Highlights:** ?
+ 
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourgithubusername/YOUR_REPO_NAME)
 
 </td>
 </tr>
@@ -195,7 +202,6 @@ workflows.
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=priyanshu-mamgain&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-mamgain&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=priyanshu-mamgain&theme=chartreuse-dark&hide_border=true&background=0D1117" alt="GitHub Streak"/>
